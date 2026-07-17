@@ -4,7 +4,6 @@ eic.commonpush.lgtviot.com
 eic-gfts.nextlgsdp.com
 eic.lgtviot.com
 eic.sports.lgtviot.com
-ngfts.nextlgsdp.com
 pl.info.lgsmartad.com
 eic.cdpsvc.lgtvcommon.com
 eic.recommend.lgtvcommon.com
@@ -12,6 +11,7 @@ lgtvonline.lge.com
 discovery.meethue.com
 # do not block
 #pl.nextlgsdp.com
+#ngfts.nextlgsdp.com
 #developer.lge.com
 #snu.lge.com
 
