@@ -9,8 +9,14 @@ eic.cdpsvc.lgtvcommon.com
 eic.recommend.lgtvcommon.com
 lgtvonline.lge.com
 discovery.meethue.com
+pl.elastic.lgwebostv.com
+eu7.elastic.lgwebostv.com
+eu7.info.lgsmartad.com
 # do not block
 #pl.nextlgsdp.com
+#eu7.nextlgsdp.com
+#eu7.app.lgwebostv.com
+#pl.app.lgwebostv.com
 #ngfts.nextlgsdp.com
 #developer.lge.com
 #snu.lge.com
