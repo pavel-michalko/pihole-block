@@ -1,7 +1,6 @@
 # custom
 pl.rdx2.nextlgsdp.com
 eic.commonpush.lgtviot.com
-pl.nextlgsdp.com
 eic-gfts.nextlgsdp.com
 eic.lgtviot.com
 eic.sports.lgtviot.com
@@ -12,8 +11,9 @@ eic.recommend.lgtvcommon.com
 lgtvonline.lge.com
 discovery.meethue.com
 # do not block
-# developer.lge.com
-# snu.lge.com
+#pl.nextlgsdp.com
+#developer.lge.com
+#snu.lge.com
 
 # https://gist.githubusercontent.com/mcrumm
 us.rdx2.lgtvsdp.com
