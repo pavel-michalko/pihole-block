@@ -1,4 +1,9 @@
 # Title: based on ps5_dns_block/cjrb007 and https://twitter.com/MODDED_WARFARE with custom additions
+||playstation.net^
+||playstation.com^
+||sony.com^
+||sony.net^
+||psndl.net^
 # ===============================================================
 # Core update / service endpoints frequently used for updates/CDN
 # ===============================================================
