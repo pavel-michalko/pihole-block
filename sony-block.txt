@@ -1,8 +1,8 @@
-||playstation.net^
-||playstation.com^
-||sony.com^
-||sony.net^
-||psndl.net^
-||playstation.net.edgesuite.net^
-||playstation.org.edgesuite.net^
-||playstation.sony.akadns.net^
+playstation.net
+playstation.com
+sony.com
+sony.net
+psndl.net
+playstation.net.edgesuite.net
+playstation.org.edgesuite.net
+playstation.sony.akadns.net
