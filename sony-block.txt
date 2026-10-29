@@ -107,6 +107,14 @@ easports.com
 eamobile.com
 origin.com
 # ===============================================================
+# Youtube
+# ===============================================================
+rr3---sn-x2pm-3ufez.googlevideo.com
+i.ytimg.com
+gstatic.com
+youtube.com
+google.com
+# ===============================================================
 # ABP-style domains
 # ===============================================================
 ||playstation.net^
@@ -124,3 +132,7 @@ origin.com
 ||easports.com^
 ||eamobile.com^
 ||origin.com^
+||googlevideo.com^
+||ytimg.com^
+||youtube.com^
+||google.com^
