@@ -94,6 +94,19 @@ al02.cdn.update.playstation.net
 a192.d.akamai.net
 playstation.sony.akadns.net
 # ===============================================================
+# Other sony sites
+# ===============================================================
+sonyentertainmentnetwork.com
+gran-turismo.com
+polyphony.co.jp
+ea.com
+ratt.juno.ea.com
+events.split.io
+bam.nr-data.net
+easports.com
+eamobile.com
+origin.com
+# ===============================================================
 # ABP-style domains
 # ===============================================================
 ||playstation.net^
@@ -104,3 +117,10 @@ playstation.sony.akadns.net
 ||playstation.net.edgesuite.net^
 ||playstation.org.edgesuite.net^
 ||playstation.sony.akadns.net^
+||sonyentertainmentnetwork.com^
+||gran-turismo.com^
+||polyphony.co.jp^
+||ea.com^
+||easports.com^
+||eamobile.com^
+||origin.com^
