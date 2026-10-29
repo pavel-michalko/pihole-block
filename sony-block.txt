@@ -113,7 +113,7 @@ rr3---sn-x2pm-3ufez.googlevideo.com
 i.ytimg.com
 gstatic.com
 youtube.com
-google.com
+#google.com
 # ===============================================================
 # ABP-style domains
 # ===============================================================
@@ -135,4 +135,4 @@ google.com
 ||googlevideo.com^
 ||ytimg.com^
 ||youtube.com^
-||google.com^
+#||google.com^
