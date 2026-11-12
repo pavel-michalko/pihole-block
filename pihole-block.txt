@@ -19,7 +19,9 @@ eu7.info.lgsmartad.com
 #pl.app.lgwebostv.com
 #ngfts.nextlgsdp.com
 #developer.lge.com
-#snu.lge.com
+
+$ LG Update
+snu.lge.com
 
 # https://gist.githubusercontent.com/mcrumm
 us.rdx2.lgtvsdp.com
