@@ -1,3 +1,7 @@
+##
+# BLOCKLIST
+##
+
 # custom
 pl.rdx2.nextlgsdp.com
 eic.commonpush.lgtviot.com
