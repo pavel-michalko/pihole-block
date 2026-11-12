@@ -20,7 +20,7 @@ eu7.info.lgsmartad.com
 #ngfts.nextlgsdp.com
 #developer.lge.com
 
-$ LG Update
+# LG Update
 snu.lge.com
 
 # https://gist.githubusercontent.com/mcrumm
